@@ -53,5 +53,11 @@ int main(void) {
 	stack.push(new Node(5));
 
 	stack.display();
+	cout << endl;
+
+	stack.pop();
+	stack.pop();
+
+	stack.display();
 	return 0;
 }
