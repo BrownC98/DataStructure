@@ -59,5 +59,6 @@ int main(void) {
 	stack.pop();
 
 	stack.display();
+	system("pause");
 	return 0;
 }

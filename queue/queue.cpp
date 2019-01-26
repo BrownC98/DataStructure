@@ -59,5 +59,6 @@ int main(void) {
 	queue.dequeue();
 
 	queue.display();
+	system("pause");
 	return 0;
 }
